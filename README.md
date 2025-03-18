@@ -2,7 +2,7 @@
 
 <p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
 
-<br clear="both">
+
 
 ###
 
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-<br clear="both">
+
 
 ###
 
@@ -35,7 +35,7 @@
 </div>
 
 ###
-<br clear="both">
+
 
 <div align="left">
   <h4 align="left">Social Links: </h4>
@@ -60,3 +60,6 @@
 </div>
 
 ###
+
+
+<br clear="both">
