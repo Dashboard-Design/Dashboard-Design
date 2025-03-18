@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-  <p align="left">Tech Stack: </p>
+  <h4 align="left">Tech Stack: </h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -38,6 +38,7 @@
 <br clear="both">
 
 <div align="left">
+  <h4 align="left">Social Links: </h4>
   <a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
@@ -53,7 +54,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img height="210" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpYjkxcHJqY21xbm5ta2ducG5iZWFvaHprcnJhZW9lbnBoOWtvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
