@@ -45,7 +45,7 @@
   <a href="malito:sajadahmadi727\@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@BI_plus_plus" target="_blank">
+  <a href="https://www.youtube.com/@BI_plus_plus" target="_self">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
   </a>
 </div>
