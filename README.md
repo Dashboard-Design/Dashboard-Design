@@ -2,6 +2,8 @@
 
 <p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
 
+<br clear="both">
+
 ###
 
 <div align="center">
@@ -14,6 +16,7 @@
 ###
 
 <div align="left">
+  <p align="left">Tech Stack: </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -47,6 +50,7 @@
 </div>
 
 <br clear="both">
+
 ###
 
 <br clear="both">
