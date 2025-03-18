@@ -13,7 +13,7 @@
 ###
 
 <br clear="both">
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -48,4 +48,4 @@
 
 
 ###
-  <img align="center" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxrN3JkejhzeGh5bjlqZzMwaDlpNjlzc2F6OXk4dHZjanZpbW5tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif"  />
+  <img align="middle" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxrN3JkejhzeGh5bjlqZzMwaDlpNjlzc2F6OXk4dHZjanZpbW5tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif"  />
