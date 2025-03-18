@@ -1,19 +1,18 @@
 <h2 align="left">👋 Hi, I'm Sajjad</h2>
 
+###
+
 <p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
 
 ###
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashboard-Design&theme=github-light&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashboard-Design&theme=github-light&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<br clear="both">
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -36,16 +35,23 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="sajadahmadi727@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@BI_plus_plus" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-
+<div align="center">
+  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpYjkxcHJqY21xbm5ta2ducG5iZWFvaHprcnJhZW9lbnBoOWtvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
+</div>
 
 ###
-  <img align="middle" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxrN3JkejhzeGh5bjlqZzMwaDlpNjlzc2F6OXk4dHZjanZpbW5tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif"  />
