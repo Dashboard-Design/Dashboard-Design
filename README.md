@@ -1,7 +1,5 @@
 <h2 align="left">👋 Hi, I'm Sajjad</h2>
 
-###
-
 <p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
 
 ###
@@ -10,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+<br clear="both">
 
 ###
 
@@ -32,6 +32,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
@@ -45,6 +46,7 @@
   </a>
 </div>
 
+<br clear="both">
 ###
 
 <br clear="both">
