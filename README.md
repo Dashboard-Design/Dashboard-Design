@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi, I'm Sajjad</h2>
 
-<p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
+<p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design.<br>Feel free to explore my projects and connect with me! 🚀</p>
 
 
 
