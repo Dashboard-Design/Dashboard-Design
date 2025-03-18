@@ -1,16 +1,10 @@
 <h2 align="left">👋 Hi, I'm Sajjad</h2>
 
-###
-
-<p align="left">
-I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.
-Feel free to explore my projects and connect with me! 🚀
-</p>
+<p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Dashboard-Design&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -44,6 +38,8 @@ Feel free to explore my projects and connect with me! 🚀
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJjZnU1OWM4NmZjdXZlbTZvZ3F5YTJubW0xaWhiNzR1MHJ4NGxtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3qj3VtNL2nhmw/giphy.gif"  />
 
