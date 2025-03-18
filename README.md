@@ -3,6 +3,7 @@
 <p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.<br><br>Feel free to explore my projects and connect with me! 🚀</p>
 
 ###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashboard-Design&theme=github-light&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
@@ -10,7 +11,7 @@
 </div>
 
 ###
-<br clear="both">
+
 <br clear="both">
 ###
 
