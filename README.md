@@ -1,8 +1,11 @@
-<h2 align="left">👋 Hi, I'm Sajjad Ahmadi!</h2>
+<h2 align="left">👋 Hi, I'm Sajjad</h2>
 
 ###
 
-<p align="left">I'm passionate about **Business Intelligence (BI) development** and specialize in designing impactful dashboards and data visualizations. As a skilled **dashboard designer** and **data visualization enthusiast**, I love exploring new ways to transform data into meaningful insights.  <br><br>I'm always eager to learn and improve, whether it's mastering new BI tools, optimizing report performance, or experimenting with creative visualization techniques.  <br><br>Feel free to explore my projects and connect with me! 🚀</p>
+<p align="left">
+I'm sharing my BI developer journey along with my passion for data visualization and dashboard design. I love transforming data into meaningful insights and constantly strive to improve my skills.
+Feel free to explore my projects and connect with me! 🚀
+</p>
 
 ###
 
