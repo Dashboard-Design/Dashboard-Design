@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJjZnU1OWM4NmZjdXZlbTZvZ3F5YTJubW0xaWhiNzR1MHJ4NGxtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3qj3VtNL2nhmw/giphy.gif"  />
 </div>
 
 ###
@@ -45,3 +44,4 @@
 
 
 ###
+  <img align="center" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxrN3JkejhzeGh5bjlqZzMwaDlpNjlzc2F6OXk4dHZjanZpbW5tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif"  />
