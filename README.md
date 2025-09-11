@@ -1,10 +1,8 @@
-<div align="center">
-  <h2>Hi, I'm Sajjad Ahmadi</h2>
-  <h3>✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨ </h3>
-</div>
+<h3 align = 'center'>✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨</h3>
+
 #
 
-#### About Me  
+#### Hi, I'm Sajjad Ahmadi  
 - 💼 Experienced **Power BI Developer** with 2+ years delivering dashboards for US & German clients.  
 - 🌐 Expanding into **Airflow, dbt, and Python Dashboards (plotly-Dash, Streamlit, Quarto)** to bridge BI & Data Engineering.  
 - 🎨 Passionate about **data storytelling & information design** — making insights beautiful *and* actionable.  
