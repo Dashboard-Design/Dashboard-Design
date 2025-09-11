@@ -1,65 +1,62 @@
-<h2 align="left">👋 Hi, I'm Sajjad</h2>
+<h2 align="center">👋 Hi, I'm Sajjad Ahmadi</h2>
+<h3 align="center">BI Developer | Data Engineer in Progress | Dashboard & Information Design Enthusiast</h3>
 
-<p align="left">I'm sharing my BI developer journey along with my passion for data visualization and dashboard design.<br>Feel free to explore my projects and connect with me! 🚀</p>
+---
 
+### 🚀 About Me  
+- 💼 Experienced **Power BI Developer** with 2+ years delivering dashboards for US & German clients.  
+- 🌐 Expanding into **AWS QuickSight, Airflow, dbt, and Quarto** to bridge BI & Data Engineering.  
+- 🎨 Passionate about **data storytelling & information design** — making insights beautiful *and* actionable.  
+- 📍 Based in Tehran, working with global clients remotely.  
 
+---
 
-###
+### 🛠️ Tech Stack  
+**Languages & Tools:**  
+Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow (learning) · Quarto · Dash · HTML/CSS · JavaScript · Figma · Adobe Illustrator  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sqlserver logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="illustrator logo"/>
+</p>
 
+---
 
+### 📊 Featured Projects  
+🔹 **[NYT 20-Year Article Analysis (Dash App)](https://github.com/Dashboard-Design/nyt-dash-app)** – Automated pipelines + deployed interactive app.  
+🔹 **[CRM Sales Insights (HubSpot API + Quarto)](https://github.com/Dashboard-Design/hubspot-sales-dashboard)** – Sales pipeline analytics, conversion rates, deal velocity.  
+🔹 **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Projects)** – Business KPIs for finance, sales, and marketing.  
 
-###
+*(More projects in my repos — each one explores BI, automation, and data storytelling.)*  
 
-<div align="left">
-  <h4 align="left">Tech Stack: </h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-</div>
+---
 
-###
+### 🌐 Let’s Connect  
+<a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+</a>
+<a href="mailto:sajadahmadi727@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+</a>
+<a href="https://www.youtube.com/@BI_plus_plus" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+</a>
 
-
-<div align="left">
-  <h4 align="left">Social Links: </h4>
-  <a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="(mailto:malito:sajadahmadi727@gmail.com?subject=Hello%20from%20Markdown&body=This%20is%20a%20test%20email.)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@BI_plus_plus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
-  </a>
-</div>
-
-<br clear="both">
-
-###
-
+---
 
 <div align="center">
-  <img height="210" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpYjkxcHJqY21xbm5ta2ducG5iZWFvaHprcnJhZW9lbnBoOWtvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&show_icons=true&theme=vue&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&layout=compact&theme=vue&hide_border=true" height="170"/>
 </div>
 
-###
+---
 
-
-<br clear="both">
+<div align="center">
+  <i>✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨</i>
+</div>
