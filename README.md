@@ -1,9 +1,10 @@
-<h2 align="center">Hi, I'm Sajjad Ahmadi</h2>
-<h3 align="center">✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨ </h3>
-
+<div align="center">
+  <h2>Hi, I'm Sajjad Ahmadi</h2>
+  <h3>✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨ </h3>
+</div>
 #
 
-#### ⭐ About Me  
+#### About Me  
 - 💼 Experienced **Power BI Developer** with 2+ years delivering dashboards for US & German clients.  
 - 🌐 Expanding into **Airflow, dbt, and Python Dashboards (plotly-Dash, Streamlit, Quarto)** to bridge BI & Data Engineering.  
 - 🎨 Passionate about **data storytelling & information design** — making insights beautiful *and* actionable.  
@@ -11,7 +12,7 @@
 
 #
 
-#### ⭐ Tech Stack  
+#### Tech Stack  
 **Languages & Tools:**  
 Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow · Quarto · Plotly-Dash · HTML/CSS · JavaScript · Figma · Adobe Illustrator  
 
@@ -38,7 +39,7 @@ Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow 
 
 #
 
-#### ⭐ Stats
+#### Stats
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dashboard-Design)
 
