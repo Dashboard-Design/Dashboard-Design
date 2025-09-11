@@ -1,17 +1,17 @@
 <h2 align="center">👋 Hi, I'm Sajjad Ahmadi</h2>
 <h3 align="center">BI Developer | Data Engineer in Progress | Dashboard & Information Design Enthusiast</h3>
 
----
+-----
 
-### 🚀 About Me  
+#### 🚀 About Me  
 - 💼 Experienced **Power BI Developer** with 2+ years delivering dashboards for US & German clients.  
 - 🌐 Expanding into **AWS QuickSight, Airflow, dbt, and Quarto** to bridge BI & Data Engineering.  
 - 🎨 Passionate about **data storytelling & information design** — making insights beautiful *and* actionable.  
 - 📍 Based in Tehran, working with global clients remotely.  
 
----
+-----
 
-### 🛠️ Tech Stack  
+#### 🛠️ Tech Stack  
 **Languages & Tools:**  
 Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow (learning) · Quarto · Dash · HTML/CSS · JavaScript · Figma · Adobe Illustrator  
 
@@ -26,36 +26,34 @@ Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow 
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="illustrator logo"/>
 </p>
 
----
+-----
 
-### 📊 Featured Projects  
-🔹 **[NYT 20-Year Article Analysis (Dash App)](https://github.com/Dashboard-Design/nyt-dash-app)** – Automated pipelines + deployed interactive app.  
-🔹 **[CRM Sales Insights (HubSpot API + Quarto)](https://github.com/Dashboard-Design/hubspot-sales-dashboard)** – Sales pipeline analytics, conversion rates, deal velocity.  
-🔹 **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Projects)** – Business KPIs for finance, sales, and marketing.  
+#### 📊 Featured Projects  
+🔹  **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Design-Files)** – Business KPIs for finance, sales, and marketing.   
+🔹  **[NYT 20-Year Article Analysis (Dash App)](https://github.com/Dashboard-Design/nyt-articles-dashboard)** – Automated pipelines + deployed interactive app.  
+🔹  **[CRM Sales Insights (HubSpot API + Quarto)](https://github.com/Dashboard-Design/HubSpot-Sales-Quarto-Dashboard)** – Sales pipeline analytics, conversion rates, deal velocity.  
+ 
 
 *(More projects in my repos — each one explores BI, automation, and data storytelling.)*  
 
----
+-----
 
-### 🌐 Let’s Connect  
+#### 🌐 Let’s Connect  
 <a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
 </a>
 <a href="mailto:sajadahmadi727@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
 </a>
-<a href="https://www.youtube.com/@BI_plus_plus" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
-</a>
 
----
+-----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&show_icons=true&theme=vue&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&layout=compact&theme=vue&hide_border=true" height="170"/>
 </div>
 
----
+-----
 
 <div align="center">
   <i>✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨</i>
