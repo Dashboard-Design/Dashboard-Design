@@ -9,7 +9,7 @@ _
 - 🎨 Passionate about **data storytelling & information design** — making insights beautiful *and* actionable.  
 - 📍 Based in Tehran, working with global clients remotely.  
 
-_
+***
 
 #### 🛠️ Tech Stack  
 **Languages & Tools:**  
@@ -26,7 +26,7 @@ Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow 
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="illustrator logo"/>
 </p>
 
-_
+***
 
 #### 📊 Featured Projects  
 🔹  **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Design-Files)** – Business KPIs for finance, sales, and marketing.   
@@ -36,7 +36,7 @@ _
 
 *(More projects in my repos — each one explores BI, automation, and data storytelling.)*  
 
-_
+***
 
 #### 🌐 Let’s Connect  
 <a href="https://www.linkedin.com/in/sajjadahmadi/" target="_blank">
@@ -46,14 +46,16 @@ _
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
 </a>
 
-_
+***
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dashboard-Design)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&show_icons=true&theme=vue&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&layout=compact&theme=vue&hide_border=true" height="170"/>
 </div>
 
-_
+***
 
 <div align="center">
   <i>✨ Turning raw data into meaningful dashboards, pipelines, and stories ✨</i>
