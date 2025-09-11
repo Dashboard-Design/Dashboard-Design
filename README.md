@@ -28,7 +28,7 @@ Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow 
 #
 
 #### ⭐ Featured Projects  
-🔹  **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Design-Files)** – Business KPIs for finance, sales, and marketing.   
+🔹  **[Power BI Dashboards](https://github.com/Dashboard-Design/Power-BI-Design-Files)** – Business KPIs for finance, sales, and marketing.   
 🔹  **[NYT 20-Year Article Analysis (Dash App)](https://github.com/Dashboard-Design/nyt-articles-dashboard)** – Automated pipelines + deployed interactive app.  
 🔹  **[CRM Sales Insights (HubSpot API + Quarto)](https://github.com/Dashboard-Design/HubSpot-Sales-Quarto-Dashboard)** – Sales pipeline analytics, conversion rates, deal velocity.  
  
