@@ -9,7 +9,7 @@ _
 - 🎨 Passionate about **data storytelling & information design** — making insights beautiful *and* actionable.  
 - 📍 Based in Tehran, working with global clients remotely.  
 
-***
+*******
 
 #### 🛠️ Tech Stack  
 **Languages & Tools:**  
