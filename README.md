@@ -9,23 +9,6 @@
 
 #
 
-#### Tech Stack  
-**Languages & Tools:**  
-Python · SQL (PostgreSQL, SQL Server) · Power BI · AWS QuickSight · Airflow · Quarto · Plotly-Dash · HTML/CSS · JavaScript · Figma · Adobe Illustrator  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sqlserver logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"/>
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="illustrator logo"/>
-</p>
-
-#
-
 #### ⭐ Featured Projects  
 🔹  **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Design-Files)** – Business KPIs for finance, sales, and marketing.   
 🔹  **[NYT 20-Year Article Analysis (Dash App)](https://github.com/Dashboard-Design/nyt-articles-dashboard)** – Automated pipelines + deployed interactive app.  
