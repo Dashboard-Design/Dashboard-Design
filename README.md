@@ -1,4 +1,4 @@
-<h1 align='center'>✨ Turning raw data into <span style='color: orange;'>actionable</span> dashboards, pipelines, and stories ✨</h1>
+<h1 align='center'>✨ Turning raw data into <span style='color: orange;'>actionable</span> dashboards ✨</h1>
 
 
 ### Hi, I'm Sajjad Ahmadi  
