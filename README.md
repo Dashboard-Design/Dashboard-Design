@@ -12,8 +12,7 @@
 #### ⭐ Featured Projects  
 🔹  **[Power BI Dashboards](https://github.com/Dashboard-Design/PowerBI-Design-Files)** – Business KPIs for finance, sales, and marketing.   
 🔹  **[NYT 20-Year Article Analysis (Dash App)](https://github.com/Dashboard-Design/nyt-articles-dashboard)** – Automated pipelines + deployed interactive app.  
-🔹  **[CRM Sales Insights (HubSpot API + Quarto)](https://github.com/Dashboard-Design/HubSpot-Sales-Quarto-Dashboard)** – Sales pipeline analytics, conversion rates, deal velocity.  
- 
+🔹  **[Discount Strategy Dashboard (Quarto + Shiny)](https://github.com/Dashboard-Design/Discount-Strategy-Dashboard)** – Data-driven discount strategy recommendation tool.
 
 *(More projects in my repos — each one explores BI, automation, and data storytelling.)*  
 
