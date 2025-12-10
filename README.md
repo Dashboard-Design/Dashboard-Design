@@ -18,12 +18,3 @@
 
 #
 
-#### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dashboard-Design&show_icons=true&theme=vue&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dashboard-Design&layout=compact&theme=vue&hide_border=true" height="170"/>
-</div>
-
-
-
