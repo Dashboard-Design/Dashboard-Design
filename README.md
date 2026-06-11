@@ -2,9 +2,9 @@
 
 
 ### Hi, I'm Sajjad Ahmadi  
--  Experienced **Power BI Developer**  
--  Expanding into **Airflow, dbt, and Python Dashboards (plotly-Dash, Streamlit, Quarto)** to bridge BI & Data Engineering.  
+-  Experienced **Power BI Developer**
 -  Passionate about **data storytelling & information design**, making insights beautiful *and* actionable.  
+-  Expanding into **Airflow, dbt, and Python Dashboards** to bridge BI & Data Engineering.  
 -  Based in Tehran, working with global clients remotely.  
 
 #
