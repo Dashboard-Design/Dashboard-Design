@@ -1,7 +1,7 @@
 <h1 align='center'>✨ Turning raw data into <span style='color: orange;'>actionable</span> dashboards ✨</h1>
 
 <p align='center'>
-  <img src="link-to-small-cropped-banner-or-collage.png" width="650"/>
+  <img width="4752" height="1194" alt="Used on Github ReadMe (3x)" src="https://github.com/user-attachments/assets/35d72393-d603-4614-9403-24c091c4c645" />
 </p>
 
 ### Hi, I'm Sajjad Ahmadi
