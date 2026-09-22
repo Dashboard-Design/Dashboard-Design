@@ -6,6 +6,6 @@
 -  BI Developer & Dashboard Designer — **Power BI · Tableau · Python** (Streamlit, Dash, Shiny)
 -  Specialize in **custom-coded visuals** (SVG, Deneb) and dashboard UX — not just charts, interfaces
 -  Based in Tehran, working with clients worldwide
--  📫 [Portfolio](https://www.sajjad-ahmadi.me/) · [LinkedIn](https://www.linkedin.com/in/sajjadahmadi/)
+-  📫 [Portfolio](https://sajjadahmadi.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/sajjadahmadi/)
 
 *👇 Pinned below — Power BI, Tableau, and Python dashboard case studies.*
